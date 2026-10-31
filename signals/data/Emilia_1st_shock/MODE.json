@@ -1,0 +1,239 @@
+[
+  {
+    "sid": "IV.MODE..HNE",
+    "starttime": "2008-04-07T08:00:00.000000Z",
+    "endtime": null,
+    "stages": [
+      {
+        "stage_number": 1,
+        "stage_type": "paz",
+        "data": {
+          "description": null,
+          "input_units": "m/s**2",
+          "output_units": "V",
+          "pz_type": "LAPLACE (RADIANS/SECOND)",
+          "normalization_factor": 24600000000000.0,
+          "normalization_frequency": 0.2,
+          "poles": [
+            {
+              "real": -981.0,
+              "imag": -1009.0
+            },
+            {
+              "real": -981.0,
+              "imag": 1009.0
+            },
+            {
+              "real": -3290.0,
+              "imag": -1263.0
+            },
+            {
+              "real": -3290.0,
+              "imag": 1263.0
+            }
+          ],
+          "zeros": [],
+          "stage_number": 1
+        }
+      },
+      {
+        "stage_number": 1,
+        "stage_type": "gain",
+        "data": {
+          "description": null,
+          "sensitivity": 1.0197,
+          "frequency": 0.2,
+          "stage_number": 1
+        }
+      },
+      {
+        "stage_number": 2,
+        "stage_type": "gain",
+        "data": {
+          "description": null,
+          "sensitivity": 314573.0,
+          "frequency": 0.0,
+          "stage_number": 2
+        }
+      },
+      {
+        "stage_number": 3,
+        "stage_type": "gain",
+        "data": {
+          "description": null,
+          "sensitivity": 1.0,
+          "frequency": 1.0,
+          "stage_number": 3
+        }
+      },
+      {
+        "stage_number": 4,
+        "stage_type": "gain",
+        "data": {
+          "description": null,
+          "sensitivity": 1.0,
+          "frequency": 1.0,
+          "stage_number": 4
+        }
+      }
+    ]
+  },
+  {
+    "sid": "IV.MODE..HNN",
+    "starttime": "2008-04-07T08:00:00.000000Z",
+    "endtime": null,
+    "stages": [
+      {
+        "stage_number": 1,
+        "stage_type": "paz",
+        "data": {
+          "description": null,
+          "input_units": "m/s**2",
+          "output_units": "V",
+          "pz_type": "LAPLACE (RADIANS/SECOND)",
+          "normalization_factor": 24600000000000.0,
+          "normalization_frequency": 0.2,
+          "poles": [
+            {
+              "real": -981.0,
+              "imag": -1009.0
+            },
+            {
+              "real": -981.0,
+              "imag": 1009.0
+            },
+            {
+              "real": -3290.0,
+              "imag": -1263.0
+            },
+            {
+              "real": -3290.0,
+              "imag": 1263.0
+            }
+          ],
+          "zeros": [],
+          "stage_number": 1
+        }
+      },
+      {
+        "stage_number": 1,
+        "stage_type": "gain",
+        "data": {
+          "description": null,
+          "sensitivity": 1.0197,
+          "frequency": 0.2,
+          "stage_number": 1
+        }
+      },
+      {
+        "stage_number": 2,
+        "stage_type": "gain",
+        "data": {
+          "description": null,
+          "sensitivity": 314573.0,
+          "frequency": 0.0,
+          "stage_number": 2
+        }
+      },
+      {
+        "stage_number": 3,
+        "stage_type": "gain",
+        "data": {
+          "description": null,
+          "sensitivity": 1.0,
+          "frequency": 1.0,
+          "stage_number": 3
+        }
+      },
+      {
+        "stage_number": 4,
+        "stage_type": "gain",
+        "data": {
+          "description": null,
+          "sensitivity": 1.0,
+          "frequency": 1.0,
+          "stage_number": 4
+        }
+      }
+    ]
+  },
+  {
+    "sid": "IV.MODE..HNZ",
+    "starttime": "2008-04-07T08:00:00.000000Z",
+    "endtime": null,
+    "stages": [
+      {
+        "stage_number": 1,
+        "stage_type": "paz",
+        "data": {
+          "description": null,
+          "input_units": "m/s**2",
+          "output_units": "V",
+          "pz_type": "LAPLACE (RADIANS/SECOND)",
+          "normalization_factor": 24600000000000.0,
+          "normalization_frequency": 0.2,
+          "poles": [
+            {
+              "real": -981.0,
+              "imag": -1009.0
+            },
+            {
+              "real": -981.0,
+              "imag": 1009.0
+            },
+            {
+              "real": -3290.0,
+              "imag": -1263.0
+            },
+            {
+              "real": -3290.0,
+              "imag": 1263.0
+            }
+          ],
+          "zeros": [],
+          "stage_number": 1
+        }
+      },
+      {
+        "stage_number": 1,
+        "stage_type": "gain",
+        "data": {
+          "description": null,
+          "sensitivity": 1.0197,
+          "frequency": 0.2,
+          "stage_number": 1
+        }
+      },
+      {
+        "stage_number": 2,
+        "stage_type": "gain",
+        "data": {
+          "description": null,
+          "sensitivity": 314573.0,
+          "frequency": 0.0,
+          "stage_number": 2
+        }
+      },
+      {
+        "stage_number": 3,
+        "stage_type": "gain",
+        "data": {
+          "description": null,
+          "sensitivity": 1.0,
+          "frequency": 1.0,
+          "stage_number": 3
+        }
+      },
+      {
+        "stage_number": 4,
+        "stage_type": "gain",
+        "data": {
+          "description": null,
+          "sensitivity": 1.0,
+          "frequency": 1.0,
+          "stage_number": 4
+        }
+      }
+    ]
+  }
+]

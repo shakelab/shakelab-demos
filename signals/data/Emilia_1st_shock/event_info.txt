@@ -1,0 +1,6 @@
+Date =v2012-05-20 02:03:50
+Latitude [°] = 44.896
+Longitude [°] = 11.264
+Depth [Km] = 9.5
+Magnitude = 6.1Mw
+Reference = INGV-CNT Seismic Bulletin
